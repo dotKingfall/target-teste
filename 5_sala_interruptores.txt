@@ -1,0 +1,12 @@
+Numa sequência lógica, não consegui um resultado certo pela possibilidade de estar visitando a sala errada. Mas se for pra ser criativo...
+É à semelhança de um outro problema, das duas salas e três lâmpadas. Então...
+
+1- Ligar interruptor 1 por uma hora
+2- Desligar interruptor 1
+3- Ligar interruptor 2
+4- Sair correndo pra duas salas (só pra garantir, caso seja uma lâmpada LED)
+
+Com isso o resultado é:
+Se estiver ligada: o interruptor 2 é o que controla aquela lâmpada.
+Se estiver desligada e fria: interruptor 3 é o que controla aquela lâmpada.
+Por fim, se estiver desligada e quente, é controlada pelo interruptor 1.
